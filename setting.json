@@ -1,6 +1,6 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"Tribun news",
+  "author":"tribun corp",
   "remove-comment-html":true,
   "target":"https://m.tribunnews.com",
   "name-folder-sitemap":"sitemap",
@@ -112,12 +112,12 @@
       "name-element":"meta",
       "data-attribute":[
         {
-          "name-attribute":"property",
-          "value-attribute":"og:title"
+          "name-attribute":"name",
+          "value-attribute":"google-site-verification"
         },
         {
           "name-attribute":"content",
-          "value-attribute":"${titlePost}"
+          "value-attribute":"id8utIixkMl7v0D-VNHgo_DfGjRHm_xKoAfi1Swejfw"
         }
       ],
       "data-innerHTML":"",
